@@ -1,0 +1,8 @@
+{
+  "name": "unibiz-hackathon-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter REST API and separate agent pipeline for the UniBiz prototype",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" }
+}
